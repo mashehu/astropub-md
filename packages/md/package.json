@@ -2,7 +2,7 @@
 	"$schema": "https://json.schemastore.org/package.json",
 	"name": "@mashehu/astropub-md",
 	"description": "Render any Markdown content in Astro. Forked from @astropub/md",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"type": "module",
 	"license": "CC0-1.0",
 	"exports": {
