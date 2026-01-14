@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This is an updated fork of [@astropub/md](https://github.com/astro-community/md). All the hard work was done by the original authors.
+
 # Astro Markdown <img src="https://jonneal.dev/astro-logo.svg" alt="" width="90" height="90" align="right">
 
 **Astro Markdown** lets you render any Markdown content in **[Astro](https://astro.build)**, optionally integrating with any existing configuration.
