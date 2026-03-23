@@ -25,7 +25,8 @@
 		"startCommand": "npm start"
 	},
 	"devDependencies": {
-		"astro": "5",
+		"astro": "6",
 		"types-object": "latest"
-	}
+	},
+	"version": "2.0.0"
 }
